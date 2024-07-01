@@ -345,7 +345,8 @@
     line-height: 20px;
   }
 
-  .stars-label {
+  li.stars-label {
+    font-size: 18px;
     margin-bottom: 5px;
     text-transform: uppercase;
     font-weight: bold;
